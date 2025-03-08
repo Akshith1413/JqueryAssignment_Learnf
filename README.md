@@ -1,11 +1,11 @@
 # Jquery Assignment  -- Ravula Akshith 
 
-# Assignment - User Registration and Login 
+## Assignment - User Registration and Login 
 
-## Features 
+### Features 
 - 🚀 Added Contacts also 
 
-## Small Glimpse
+### Small Glimpse
 ![App Screenshot](gallery/Screenshot.png)
 
 &nbsp;  
