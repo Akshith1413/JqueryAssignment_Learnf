@@ -6,7 +6,7 @@
 - 🚀 Added Contacts also 
 
 ## Small Glimpse
-![App Screenshot](gallery/screenshot.png)
+![App Screenshot](gallery/Screenshot.png)
 
 &nbsp;  
 
