@@ -2,7 +2,7 @@
 
 # Assignment - User Registration and Login 
 
-# Features 
+## Features 
 - 🚀 Added Contacts also 
 
 ## Small Glimpse
